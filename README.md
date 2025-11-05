@@ -1,0 +1,2 @@
+# -Predictive-Maintenance-for-Renewable-Energy-Sources
+The aim to decrease the maintenance cost of generators used in wind energy production machinery. This is achieved by building various classification models, accounting for class imbalance, and tuning on a user defined cost metric (function of true positives, false positives and false negatives predicted) &amp; productionising the model using pipelines.
